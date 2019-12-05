@@ -13,4 +13,4 @@ azure
 cyber yellow
 golden
 french rose
-
+fuchsia
