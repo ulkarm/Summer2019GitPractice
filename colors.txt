@@ -4,5 +4,7 @@ green
 black
 yellow
 purple
+navy blue
+pink
 white
-mustard
+
