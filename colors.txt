@@ -10,3 +10,5 @@ white
 orange
 cyan
 azure
+french rose
+
