@@ -10,3 +10,6 @@ white
 orange
 cyan
 azure
+cyber yellow
+golden
+
