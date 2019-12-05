@@ -9,3 +9,4 @@ pink
 white
 orange
 cyan
+azure
